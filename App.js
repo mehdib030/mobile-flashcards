@@ -17,6 +17,7 @@ import { setLocalNotification } from './utils/helpers'
 
 const store = createStore(reducer,middleware)
 
+/*This class renders the navigation menu*/
 class App extends Component {
 
   componentDidMount() {
