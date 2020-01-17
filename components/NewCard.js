@@ -3,7 +3,9 @@ import {View,Text,TextInput,Button,Alert} from 'react-native'
 import {connect} from 'react-redux'
 import {handleSaveCard} from '../actions/decks'
 
-
+/**
+ * This class is where the user sets up the question and corresponding answer
+ */
 class  NewCard extends Component {
     constructor(props) {
         super(props);

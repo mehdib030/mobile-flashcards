@@ -1,7 +1,6 @@
 ## Project description
 
-This aplication is a question and answer quiz game. A list of decks representing various categories an subjects
-contain a question card. The user tries to answer the questions correctly.
+This React aplication is a question and answer quiz game. A list of decks representing various categories an subjects that contain a question card. The user tries to answer the questions correctly.
 
 The application works on ios but needs styling (Android and ios). There are are some styling bugs on Android that need to be fixed.
 
