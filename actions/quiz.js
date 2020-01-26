@@ -3,8 +3,6 @@ export const SAVE_ANSWER = 'SAVE_ANSWER'
 
 export function handleSaveAnswer(title,qidx,correct){
     return (dispatch,getState) => {
-        //const {} = getState()
-
         
         return saveAnswer({
             title:title,

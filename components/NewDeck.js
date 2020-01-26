@@ -11,8 +11,6 @@ class NewDeck extends Component {
       }
 
    render(){
-        //const [value, onChangeText] = React.useState('Deck title');
-
         return(
 
             <View>

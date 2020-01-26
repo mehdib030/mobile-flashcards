@@ -27,7 +27,7 @@ class DeckList extends Component {
             
             {Object.values(this.props.decks).map((deck) => {
                 return (
-                    // <Deck key={deck.title} title={deck.title}></Deck>
+
                     <View key={deck.title} style={styles.firstHeader}>
                             
                             <TouchableOpacity onPress={() =>

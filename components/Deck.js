@@ -54,7 +54,6 @@ const styles = StyleSheet.create({
     thirdHeaderContainer: {
       margin: 5,
       width: 200,
-      //backgroundColor: 'white',
       justifyContent: 'center',
       height: 200,
       alignItems: 'center',
