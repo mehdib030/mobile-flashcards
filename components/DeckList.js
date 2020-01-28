@@ -3,12 +3,10 @@ import { connect } from 'react-redux'
 import { View, StyleSheet, Text,TouchableOpacity,Button } from 'react-native'
 import Deck from './Deck'
 
-import {handleInitialData} from '../actions/shared'
-//import Panel from 'react-native-panel';
+import {handleInitialData} from '../actions/shared';
 import { createStackNavigator } from 'react-navigation-stack';
 import { createAppContainer } from 'react-navigation';
-//import { TabNavigator, StackNavigator } from 'react-navigation'
-import HomeScreen from './HomeScreen'
+import HomeScreen from './HomeScreen';
 
 
 class DeckList extends Component {
